@@ -1,0 +1,4 @@
+.ropeproject/
+dist/
+src/rope_cli/__pycache__/
+.DS_store
